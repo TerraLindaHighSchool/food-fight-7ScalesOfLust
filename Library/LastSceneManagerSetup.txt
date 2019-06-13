@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Food_Fight/Scenes/Scene_2.unity
+- path: Assets/Food_Fight/Scenes/Main_Scene.unity
   isLoaded: 1
   isActive: 1

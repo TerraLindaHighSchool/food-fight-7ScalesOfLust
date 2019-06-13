@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hand
+  - Held
+  - Launcher
+  - Vending Machine
+  - Wall
+  - Floor
+  - Fruit
+  - Pepperoni Notif
+  - Broccoli Notif
+  - Banana Notif
+  - Enemy Health
+  - Player Health
+  - Player Launched Fruit
+  - Enemy Launched Fruit
   layers:
   - Default
   - TransparentFX
